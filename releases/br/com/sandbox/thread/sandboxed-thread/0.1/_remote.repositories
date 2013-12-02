@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 25 23:22:42 BRST 2013
+sandboxed-thread-0.1.jar>=
+sandboxed-thread-0.1-javadoc.jar>=
+sandboxed-thread-0.1.pom>=
+sandboxed-thread-0.1-sources.jar>=
