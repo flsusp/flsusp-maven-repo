@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 02 14:59:18 BRST 2013
+datastore-0.1.1-javadoc.jar>=
+datastore-0.1.1.jar>=
+datastore-0.1.1-sources.jar>=
+datastore-0.1.1.pom>=
